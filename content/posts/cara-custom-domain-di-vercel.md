@@ -1,5 +1,5 @@
 ---
-title: "UI/UX newbie to masterclass"
+title: "Component in Figma"
 date: 2023-02-05T19:55:03+07:00
 draft: false
 ---
